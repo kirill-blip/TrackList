@@ -1,0 +1,19 @@
+.track-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.track-item-title {
+    font-weight: 700;
+}
+
+.track-item-text{
+    color: grey;
+    font-weight:  500;
+}
+
+.remove-button {
+    background-color: red;
+    align-self: flex-end;
+}

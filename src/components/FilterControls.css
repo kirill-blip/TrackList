@@ -1,0 +1,15 @@
+.label {
+  margin-right: 5px;
+}
+
+.text {
+  font-size: 15px;
+  margin-right: 5px;
+}
+
+.input {
+  padding: 10px;
+  margin-right: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}

@@ -1,0 +1,24 @@
+.form {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.input {
+  padding: 10px;
+  margin-right: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.sumbit-button {
+  padding: 10px;
+  background-color: #5cb85c;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.sumbit-button:hover {
+  background-color: #4cae4c;
+}
